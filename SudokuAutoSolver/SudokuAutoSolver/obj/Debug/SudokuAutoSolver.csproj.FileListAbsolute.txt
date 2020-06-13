@@ -1,0 +1,31 @@
+C:\Users\FRONTIER\source\repos\SudokuAutoSolver\SudokuAutoSolver\bin\Debug\SudokuAutoSolver.exe.config
+C:\Users\FRONTIER\source\repos\SudokuAutoSolver\SudokuAutoSolver\bin\Debug\SudokuAutoSolver.exe
+C:\Users\FRONTIER\source\repos\SudokuAutoSolver\SudokuAutoSolver\bin\Debug\SudokuAutoSolver.pdb
+C:\Users\FRONTIER\source\repos\SudokuAutoSolver\SudokuAutoSolver\obj\Debug\SudokuAutoSolver.csprojAssemblyReference.cache
+C:\Users\FRONTIER\source\repos\SudokuAutoSolver\SudokuAutoSolver\obj\Debug\SudokuAutoSolver.Form1.resources
+C:\Users\FRONTIER\source\repos\SudokuAutoSolver\SudokuAutoSolver\obj\Debug\SudokuAutoSolver.Properties.Resources.resources
+C:\Users\FRONTIER\source\repos\SudokuAutoSolver\SudokuAutoSolver\obj\Debug\SudokuAutoSolver.csproj.GenerateResource.cache
+C:\Users\FRONTIER\source\repos\SudokuAutoSolver\SudokuAutoSolver\obj\Debug\SudokuAutoSolver.csproj.CoreCompileInputs.cache
+C:\Users\FRONTIER\source\repos\SudokuAutoSolver\SudokuAutoSolver\obj\Debug\SudokuAutoSolver.exe
+C:\Users\FRONTIER\source\repos\SudokuAutoSolver\SudokuAutoSolver\obj\Debug\SudokuAutoSolver.pdb
+C:\Users\FRONTIER\source\repos\SudokuAutoSolver\SudokuAutoSolver\obj\Debug\SudokuAutoSolver.Select.resources
+C:\Users\Denis\source\repos\SudokuAutoSolver\SudokuAutoSolver\bin\Debug\SudokuAutoSolver.exe.config
+C:\Users\Denis\source\repos\SudokuAutoSolver\SudokuAutoSolver\bin\Debug\SudokuAutoSolver.exe
+C:\Users\Denis\source\repos\SudokuAutoSolver\SudokuAutoSolver\bin\Debug\SudokuAutoSolver.pdb
+C:\Users\Denis\source\repos\SudokuAutoSolver\SudokuAutoSolver\obj\Debug\SudokuAutoSolver.csprojAssemblyReference.cache
+C:\Users\Denis\source\repos\SudokuAutoSolver\SudokuAutoSolver\obj\Debug\SudokuAutoSolver.Form1.resources
+C:\Users\Denis\source\repos\SudokuAutoSolver\SudokuAutoSolver\obj\Debug\SudokuAutoSolver.Properties.Resources.resources
+C:\Users\Denis\source\repos\SudokuAutoSolver\SudokuAutoSolver\obj\Debug\SudokuAutoSolver.Select.resources
+C:\Users\Denis\source\repos\SudokuAutoSolver\SudokuAutoSolver\obj\Debug\SudokuAutoSolver.csproj.GenerateResource.cache
+C:\Users\Denis\source\repos\SudokuAutoSolver\SudokuAutoSolver\obj\Debug\SudokuAutoSolver.exe
+C:\Users\Denis\source\repos\SudokuAutoSolver\SudokuAutoSolver\obj\Debug\SudokuAutoSolver.pdb
+C:\Users\Denis\Desktop\Main Projects\SudokuAutoSolver\SudokuAutoSolver\bin\Debug\SudokuAutoSolver.exe.config
+C:\Users\Denis\Desktop\Main Projects\SudokuAutoSolver\SudokuAutoSolver\bin\Debug\SudokuAutoSolver.exe
+C:\Users\Denis\Desktop\Main Projects\SudokuAutoSolver\SudokuAutoSolver\bin\Debug\SudokuAutoSolver.pdb
+C:\Users\Denis\Desktop\Main Projects\SudokuAutoSolver\SudokuAutoSolver\obj\Debug\SudokuAutoSolver.csprojAssemblyReference.cache
+C:\Users\Denis\Desktop\Main Projects\SudokuAutoSolver\SudokuAutoSolver\obj\Debug\SudokuAutoSolver.Form1.resources
+C:\Users\Denis\Desktop\Main Projects\SudokuAutoSolver\SudokuAutoSolver\obj\Debug\SudokuAutoSolver.Properties.Resources.resources
+C:\Users\Denis\Desktop\Main Projects\SudokuAutoSolver\SudokuAutoSolver\obj\Debug\SudokuAutoSolver.Select.resources
+C:\Users\Denis\Desktop\Main Projects\SudokuAutoSolver\SudokuAutoSolver\obj\Debug\SudokuAutoSolver.csproj.GenerateResource.cache
+C:\Users\Denis\Desktop\Main Projects\SudokuAutoSolver\SudokuAutoSolver\obj\Debug\SudokuAutoSolver.exe
+C:\Users\Denis\Desktop\Main Projects\SudokuAutoSolver\SudokuAutoSolver\obj\Debug\SudokuAutoSolver.pdb
