@@ -45,6 +45,22 @@ namespace SudokuAutoSolver
             }
         }
 
+        private void testBoard2(int[][] board) // used for testing purposes
+        {
+            board[0][0] = 8; board[1][2] = 3; board[1][3] = 6; board[2][1] = 7; board[2][4] = 9; board[2][6] = 2;
+            board[3][1] = 5; board[3][5] = 7; board[4][4] = 4; board[4][5] = 5; board[4][6] = 7; board[5][3] = 1;
+            board[5][7] = 3; board[6][2] = 1; board[6][7] = 6; board[6][8] = 8; board[7][2] = 8; board[7][3] = 5;
+            board[7][7] = 1; board[8][1] = 9; board[8][6] = 4;
+            for (int i = 0; i < LogicalBoard.Length; i++)
+            {
+                for (int j = 0; j < LogicalBoard[i].Length; j++)
+                {
+                    if (board[i][j] == 0) continue;
+                    PhysicalBoard[i][j].Text = board[i][j].ToString();
+                }
+            }
+        }
+
         private void Click_Block(object sender, EventArgs e)
         {
             if (!solved)

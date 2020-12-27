@@ -106,9 +106,9 @@ namespace SudokuAutoSolver
                     return 4;
                 case 'f':
                     return 5;
-                case 'h':
+                case 'g':
                     return 6;
-                case 'i':
+                case 'h':
                     return 7;
                 default:
                     return 8;
